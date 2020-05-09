@@ -1,4 +1,4 @@
 # SimpleCalculator
-A simple calculator that be done in console
+A simple calculator that is done in console
 
 Written in Java
